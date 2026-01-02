@@ -4,4 +4,4 @@ A modern web application for discovering and managing online tools with a user-f
 
 
 
-<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/c5fd4590-fa9d-430f-b967-b821238c5026" />
+<img width="1410" height="1005" alt="image" src="https://github.com/user-attachments/assets/31effd93-9e4e-4bb8-9b99-3ada443617f2" />
